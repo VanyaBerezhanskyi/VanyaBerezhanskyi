@@ -8,6 +8,6 @@
 - 3D Runner - https://github.com/VanyaBerezhanskyi/3D_Runner.git
 - AI Project - https://github.com/VanyaBerezhanskyi/AI_Project.git
 
-## Others
+## SDL2
 
 - Blackjack C++ - https://github.com/VanyaBerezhanskyi/Blackjack_C-.git
